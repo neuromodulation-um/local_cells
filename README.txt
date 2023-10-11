@@ -1,5 +1,5 @@
 
-Source files to model recruitment of cells during SCS. Associated with the following paper: <INSERT CITATION FOR SUBTHRESHOLD PAPER>
+Source files to model recruitment of cells during SCS. 
 
 Included is the template to generate a morphologically-realistic superficial dorsal horn local cell, as well as .mod files of each cell for biophysical modeling in the NEURON software environment.
 
